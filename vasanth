@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VASANTH</title>
+    <style>
+header
+{
+    background-color: rgba(15, 15, 15, 0.986);
+   
+    text-align: right;
+	font-size: x-large;
+    
+
+}
+nav
+{
+	color: rgba(250, 252, 249, 0.975);
+    padding: 20px;
+    list-style-type: none;
+    
+}
+h2{
+text-align: center;
+background-color: rgba(15, 15, 15 ,0.7);
+
+color:white;
+border: 2;
+padding: 20px;
+}
+img{
+	width: 400px;
+	height: 400px;
+    margin-left: 30%;
+	
+	}
+#A
+{
+    color: rgb(36, 212, 153);
+}    
+</style>
+   
+</head>
+<body>
+    <header>
+        <nav>
+        <a href="">OBJECTIVE</a>
+        <a href="#A">EDU QUA</a>
+        <a href="#6">POJECT</a>
+        <a href="">DETAIL</a>
+        </nav>
+    </header>
+<h2 id="a">OBJECTIVE</h2>
+<p>A highly organized and hard-working individual looking for a responsible position to 
+    gain practical experience. </p> <br>
+    <img src="PHOTO.jpg"value="n" align="center" ></img>
+    
+<br>
+<h2 id="A">EDUCATION QUALIFICATION</h2>
+    <table  align="center" border="2" widht="60" cellpadding="20" >
+<tr align="center">
+<td>Course</td>
+<td>Discipline/board</td>
+<td>Institution</td>
+<td>passing</td>
+<td>percentage</td>
+
+</tr>
+<tr>
+<td>Diploma</td>
+<td>Dote</td>
+<td><a href="https://www.bing.com/search?q=sudarshana+polytechnic+college&form=EX0050&refig=
+    cb7b328cd6b14901947583851efbf848&pc=EdgeStart&sp=1&lq=0&qs=NM&
+    pq=sudharshana++++++polytechnic+college,&sc=1-37&cvid=cb7b328cd6b14901947583851efbf848&
+    filters=local_ypid:%22YN4070x15021652193166259892%22&shtp=GetUrl&shid=ae06dd16-78ed-440a-b5
+    8d-0b9bda888e4a&shtk=U3VkaGFyc2hhbmEgUG9seXRlY2huaWMgQ29sbGVnZQ%3D%3D&shdk=Rm91bmQgb24gQmluZy
+    4%3D&shhk=gzPYZivl7pGm37GgY4TNjxibz3odOIVkVHtO8KrZL6I%3D" target="_blank" > Sudharshana 
+    Polytechnic College, 
+    Kalipatti </a>
+ 
+</td>
+<td>2020</td>
+<td>85%</td>
+
+</tr>
+<tr>
+<td>SSLC</td>
+<td>State board</td>
+<td><a href="https://www.bing.com/maps?osid=f8ea4e76-f46c-4011-99a0-4f3bd99eef72&cp
+    =11.140012~78.588406&lvl=16&imgid=2df547b9-178f-4da9-9d0d-4107c1518e09&v=2&sV=2&form=S00027" target="_blank">Zamindar’s Hr. Sec. 
+    School, Thuraiyur</a>  
+     </td>
+<td>2017</td>
+<td>82.2%</td>
+
+</tr>
+<tr>
+<td>B.E</td>
+<td>Autonomous</td>
+<td> <a href="https://www.bing.com/search?q=kalaignar+karunanidhi+institute+of+technology&form=EX0050&filters=local_ypid
+    :"YN4070x15668813370637444328"&shtp=GetUrl&shid=01edcbbe-d970-4798-aee0-631f721e6b2d&shtk=S2FsYWlnbmFya2FydW5hbmlkaGkgSW5zdGl0dXRlIG9mIFRlY2hub2xvZ3
+    k%3D&shdk=S0lULSBLYWxhaWduYXJLYXJ1bmFuaWRoaSBJbnN0aXR1dGUgb2YgVGVjaG5vbG9neSBpcyBhbiBBdXRvbm9tb3VzIEluc3RpdHV0aW9uIGxvY2F0ZWQgaW4g
+    Q29pbWJhdG9yZSwgVGFtaWwg4oCm&shhk=qxR5JOLhCAJ0zLzd2xljDuO4QaGe8BOsQpF14ACQxwA%3D" target="_blank">KITKalaignarKarunanidhi 
+    Institute Of 
+    Technology</a>
+    </td>
+<td>2023</td>
+<td>8.23(CGPA)</td>
+
+</tr>
+</table>
+<h2 id="6">project</h2>
+
+</body>
+</html>
